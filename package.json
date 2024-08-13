@@ -1,0 +1,12 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "To-do List Project",
+  "main": "main.js",
+  "homepage": "https://victoronum.github.io/to-do",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Onum",
+  "license": "MIT"
+}
