@@ -1,4 +1,4 @@
-//alert("Did you know you can visit this site on your phone? Try it out today!!");
+alert("Did you know you can visit this site on your phone? Try it out today!!");
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 function addTask(){
